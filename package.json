@@ -1,0 +1,19 @@
+{
+    "name": "footware",
+    "version": "0.0.0",
+    "private": true,
+    "author": "Nihal Ahmed",
+    "scripts": {
+        "start": "node app.js",
+        "tes": "jasmine"
+    },
+    "dependencies": {
+        "jasmine": "^3.1.0",
+        "lodash": "^4.17.4",
+        "serve-favicon": "^2.3.2",
+        "shortid": "^2.2.8"
+    },
+    "devDependencies": {
+        "jasmine-ts-console-reporter": "^3.1.1"
+    }
+}
